@@ -1,5 +1,5 @@
 # Hi there 👋
-#I'm Arunima Singh and currently learning web development
+I'm Arunima Singh and currently learning web development
 
 <!--
 **arunima14/arunima14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
