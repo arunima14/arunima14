@@ -5,6 +5,9 @@
 
 int main() {
 
+int x=25;
+cout<<"hello everyone";
+
    int n, new_number;
     scanf("%d", &n);
     
