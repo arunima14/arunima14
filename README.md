@@ -14,6 +14,6 @@ I'm Arunima Singh and currently learning web development -->
 - 🌱 I’m currently learning Node.js<br>
 - 👯 I’m looking to collaborate on projects of Web Development<br>
 - 💬 Ask me about Frontend Web Development<br>
-- 📫 How to reach me: https://www.linkedin.com/in/arunima-singh18/<br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/arunima-singh18/">Arunima Singh</a><br>
 - 😄 Pronouns: She/Her
 
