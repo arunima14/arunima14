@@ -1,19 +1,19 @@
-<img src="C:\Users\Arunima Singh\Downloads">
+<!-- 
 
 # Hi there 👋
-I'm Arunima Singh and currently learning web development
+I'm Arunima Singh and currently learning web development -->
 
-<!--
+
 **arunima14/arunima14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Here are some ideas to get you started: -->
+
+ <img src="C:\Users\Arunima Singh\Downloads">
+- 🔭 I’m currently working on Backend Web Development
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on projects of Web Development
+- 💬 Ask me about Frontend Web Development
+- 📫 How to reach me: https://www.linkedin.com/in/arunima-singh18/
+- 😄 Pronouns: She/Her
+
