@@ -1,3 +1,5 @@
+<img src="C:\Users\Arunima Singh\Downloads">
+
 # Hi there 👋
 I'm Arunima Singh and currently learning web development
 
