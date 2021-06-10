@@ -9,7 +9,7 @@ I'm Arunima Singh and currently learning web development -->
 
 <!-- Here are some ideas to get you started: -->
 
- <img src="m">
+ <img src="Frontend Web Developer banner.png">
 - 🔭 I’m currently working on Backend Web Development <br>
 - 🌱 I’m currently learning Node.js<br>
 - 👯 I’m looking to collaborate on projects of Web Development<br>
