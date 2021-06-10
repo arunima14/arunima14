@@ -3,14 +3,14 @@
 # Hi there 👋
 I'm Arunima Singh and currently learning web development -->
 
-
-**arunima14/arunima14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+**arunima14/arunima14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 <!-- Here are some ideas to get you started: -->
 
  <img src="C:\Users\Arunima Singh\Downloads">
-- 🔭 I’m currently working on Backend Web Development
+- 🔭 I’m currently working on Backend Web Development <br>
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on projects of Web Development
 - 💬 Ask me about Frontend Web Development
