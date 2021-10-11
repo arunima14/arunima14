@@ -1,19 +1,22 @@
-<!-- 
+### Hi there 👋
 
-# Hi there 👋
-I'm Arunima Singh and currently learning web development -->
+<!--
+**itskhushis1/itskhushis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- 
-**arunima14/arunima14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunima14&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunima14&layout=compact&theme=radical&hide_border=true)](https://github.com/arunima14) 
 
 
-<!-- Here are some ideas to get you started: -->
 
- <img src="Frontend Web Developer banner.png">
-- 🔭 I’m currently working on Backend Web Development <br>
-- 🌱 I’m currently learning Node.js<br>
-- 👯 I’m looking to collaborate on projects of Web Development<br>
-- 💬 Ask me about Frontend Web Development<br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/arunima-singh18/">Arunima Singh</a><br>
-- 😄 Pronouns: She/Her
 
