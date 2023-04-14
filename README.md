@@ -19,10 +19,11 @@
 
 
 ### You can connect with me from _here_ 📧:
-[<img height=40 width=40 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:aru14ac@gmail.com)
-[<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/arunima-singh-56a726209/) 
-[<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/Arunima26728410) 
-[<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/arunima.singh.98837/) 
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](https://www.instagram.com/_arunima14_/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Mail me" src="gmail.png">](mailto:arunmaforwork@gmail.com) &nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="linkedin.png">](https://www.linkedin.com/in/arunima-singh-56a726209/) &nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="twitter.png">](https://twitter.com/Arunima26728410) &nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="facebook.png">](https://www.facebook.com/arunima.singh.98837/) &nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="instagram.png">](https://www.instagram.com/_arunima14_/) &nbsp;&nbsp;&nbsp;
 <br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
