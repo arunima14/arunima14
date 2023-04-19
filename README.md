@@ -20,7 +20,7 @@
 
 ### You can connect with me from _here_ 📧:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height=40 width=40 align="centre" alt="Mail me" src="gmail.png">](mailto:arunmaforwork@gmail.com) &nbsp;&nbsp;&nbsp;
+[<img height=40 width=40 align="centre" alt="Mail me" src="gmail.png">](mailto:arunimaforwork@gmail.com) &nbsp;&nbsp;&nbsp;
 [<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="linkedin.png">](https://www.linkedin.com/in/arunima-singh-56a726209/) &nbsp;&nbsp;&nbsp;
 [<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="twitter.png">](https://twitter.com/Arunima26728410) &nbsp;&nbsp;&nbsp;
 [<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="facebook.png">](https://www.facebook.com/arunima.singh.98837/) &nbsp;&nbsp;&nbsp;
