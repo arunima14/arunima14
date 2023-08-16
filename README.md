@@ -3,8 +3,8 @@
 
 ### <p align="center"> <u>Congratulations, you found me on GitHub ! Know more about me 👇. </u></p>
 
- - 👋 I am Currently working on improving my :<br>
-  👩‍💻 Python   |  C++   |  Java  |   HTML  |   CSS   |   Javascript  |  Node.js
+ - 👋 I am proficient in:<br>
+  👩‍💻 Java   |  HTML/CSS   |  JavaScript  |   TypeScript  |   Reactjs   |   Nodejs  |  MySQl
  - 🌐 I have a keen interest on developing Web applications 
  - 💭 I am intrested in projects that involve problem solving
  - ⚡ Fun fact: Try finding on your own !
